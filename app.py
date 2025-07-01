@@ -10,5 +10,5 @@ def home():
 def report():
     return render_template('report.html')
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)
