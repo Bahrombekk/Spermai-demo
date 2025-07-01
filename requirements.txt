@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 Flask>=2.0.0
 PyYAML>=6.0
 gunicorn
-=======
-Flask
-Flask>=2.0.0
-PyYAML>=6.0
-gunicorn
->>>>>>> 3ecae69 (new)
+
