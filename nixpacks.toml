@@ -1,4 +1,4 @@
-#nixpacks.toml
+# nixpacks.toml
 
 [start]
-smd="gunicorn app:app
+cmd = "gunicorn app:app"
